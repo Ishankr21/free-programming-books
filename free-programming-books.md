@@ -358,6 +358,7 @@
 
 * [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Python Artificial Intelligence Projects for Beginners - Get up and running with 8 smart and exciting AI applications](https://b-ok.asia/book/3618466/ad7503) - Joshua Eckroth (PDF)
 
 
 #### Cellular Automata
