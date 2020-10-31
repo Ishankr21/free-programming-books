@@ -386,6 +386,7 @@
 
 * [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
+* [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests](https://b-ok.asia/book/3579636/022e90) -Antti Laaksonen (PDF)
 * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
