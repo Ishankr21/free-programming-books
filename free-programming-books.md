@@ -584,6 +584,8 @@
 #### Mathematics For Computer Science
 
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
+* [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://b-ok.asia/book/710659/c956e8) - 
+Ronald L. Graham, Donald E. Knuth, Oren Patashnik
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
