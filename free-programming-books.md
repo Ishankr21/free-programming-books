@@ -358,12 +358,13 @@
 
 * [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Python Artificial Intelligence Projects for Beginners - Get up and running with 8 smart and exciting AI applications](https://b-ok.asia/book/3618466/ad7503) - Joshua Eckroth (PDF)
 
 
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-
+* [Cellular Automata: Analysis and Applications](https://b-ok.asia/book/2941390/d682af) - Karl-Peter Hadeler, Johannes Müller (auth.)  (PDF)
 
 #### Cloud Computing
 
@@ -385,6 +386,7 @@
 
 * [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
+* [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests](https://b-ok.asia/book/3579636/022e90) -Antti Laaksonen (PDF)
 * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
@@ -582,6 +584,8 @@
 #### Mathematics For Computer Science
 
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
+* [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://b-ok.asia/book/710659/c956e8) - 
+Ronald L. Graham, Donald E. Knuth, Oren Patashnik
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
